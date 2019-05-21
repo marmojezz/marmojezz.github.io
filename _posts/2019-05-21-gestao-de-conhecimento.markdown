@@ -8,6 +8,8 @@ tag:
 - managment
 - sharing
 - mindmap
+- canvas
+- feedback
 category: blog
 author: jeffersonaraujo
 description: Compartilhamento do conhecimento humano
