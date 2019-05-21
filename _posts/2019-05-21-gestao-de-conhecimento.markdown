@@ -13,14 +13,13 @@ author: jeffersonaraujo
 description: Compartilhamento do conhecimento humano
 ---
 
-## Meus primeiros passos em Gestão de Gonhecimento
+## Introdução
 
-Hoje foi um daqueles dias que se guarda, fundo, na memória e, sempre que se falar em 
+Hoje foi um daqueles dias que se guarda lá no fundo da memória e, sempre que se falar em 
 experiências inesquecíveis, certamente será lembrado. Como pode - me perguntei logo após sair 
 da sala - uma aula de Gestão de Conhecimento do curso de MBA em Gestão de Projeto ter 
 conseguido me causar tanta inquietude. _Sensacional!_ Era a primeira aula dessa matéria no 
-curso, ministrado pelo professor Ricardo Perri que eu havia acabado de conhecer. Uma alma 
-incrível que conseguir tocar fogo na minha mente de várias maneiras possíveis. 
+curso, ministrado pelo professor Ricardo Perri. Talvez você consiga ter uma imagem do sugeito pensando no "Raul Seixas". Sério! "kkkk". Uma alma incrível que conseguir tocar fogo na minha mente de várias maneiras possíveis. 
 
 Como pode - me perguntei mais uma vez - alguém sair da aula com a cabeça tão revirada, 
 extasiada, dopada... com uma ideia - maluca - gravada na cabeça de que eu tinha que arrumar uma 
@@ -33,8 +32,15 @@ E aqui estou eu. Criando meu primeiro post, em meu primeiro blog sobre esta prim
 experiência sobre o assunto Gestão do Conhecimento. Para isso, irei adotar o mesmo caminha 
 adotado pelo professor. (Espero que eu consiga... ;D)
 
+Topicos:
+1. Canvas
+2. Alinhamento de Expectativas
+3. Ferramentas
+4. Feedback
+5. Conclusão
 
-## Alinhamento de Expectativas
+
+## 1. Canvas
 Em seu primeiro ato, o professor Perri colocou um flip-chart no canto da sala. Com o pincel 
 dividiu a folha em branco ao meio com um risco do pincel. Escreveu "**_Eu quero..._**" no top 
 da parte esquerda e "**_Eu não quero..._**" na parte direita da folha. Distribuiu um bloquinho 
@@ -48,10 +54,7 @@ Em seguida pediu que fossemos, um a um, a frente da sala apresentando cada um do
 que os colássemos no quadro. Depois se dirigiu para fazer as considerações dele sobre cada um 
 dos papeis coloridos colados naquele quadro branco e disse algo assim: "- Olha que maravilha, 
 agora com isto consigo adaptar todo conteúdo da matéria para atender todas essas questões 
-levantadas". Percebeu? não disse com palavras, mas para mim essa foi a primeira lição da noite. 
-Alinhamento de expectativas das partes envolvidas no "projeto aprender gestão de conhecimento". 
-Ou ter o "conhecimento" do TODAS as pessoas envolvidas (ou _stackholders_) esperam obter ao 
-final. Interessante não é?
+levantadas". 
 
 Nos meus escrevi o seguinte:
 
@@ -66,8 +69,13 @@ mudanças.
 E partir de agora, tenho mais 3 metas. Aprender os 3 primeiros itens até o fim das 8 aulas da 
 matéria de Gestão de Conhecimento.
 
+## 2. Alinhamento de Expectativas
+Percebeu? não disse com palavras, mas para mim essa foi a primeira lição da noite. 
+Alinhamento de expectativas das partes envolvidas no "projeto aprender gestão de conhecimento". 
+Ou ter o "conhecimento" do TODAS as pessoas envolvidas (ou _stackholders_) esperam obter ao 
+final. Interessante não é?
 
-## Mapa mental (mind map)
+## 3. Mapa mental (mind map)
 
 Nesse momento da aula eu já estava completamente envolvido louco para saber o que viria a 
 seguir. Discutimos bastantes sobre como seria a condução das aulas. Até vir a pergunta: "- 
@@ -100,7 +108,7 @@ pode ser que alguma de suas habilidades, até mesma a que não é utilizada naqu
 execução da tarefa daquele que a tem, pode ajudar na execução de uma tarefa em outro ponto do 
 projeto, ou outra pessoa.
 
-## Feedback
+## 4. Feedback
 
 No decorrer da aula foi apresentado todo essa complexidade e beleza da gestão da informação. 
 Principalmente valorizando os geradores de conhecimento. Nós! 
@@ -109,10 +117,11 @@ aula atendeu às expectativas que criamos?"
 Perceba que essa pergunta esta totalmente ligada ao primeiro ato da aula. O alinhamento das 
 expectativas.
 
-Sai de lá extasiado, e com a meta de compartilhar. Feito!
 
+## Conclusão
+Sai de lá extasiado, e com a meta de compartilhar. Feito!
 Agora são exatamente 1:24 da madrugada de quinta-feira e eu preciso levantar as 5 horas. Mas 
-como disse, não podia deixar de fazer esse meu primeiro post. E não será o ultimo.
+como disse, não podia deixar de fazer esse meu primeiro post. E não será o ultimo. Preciso concluir ou o fato de estar compartilhando já diz tudo?
 
 
 Que toda a luz esteja iluminando seus caminhos.
