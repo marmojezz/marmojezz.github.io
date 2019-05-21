@@ -1,15 +1,16 @@
 ---
-title: "Markdown Extra Components"
+title: "Compartilhar"
 layout: post
 date: 2019-05-21 06:43
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- share
+- managment
+- sharing
+- mindmap
 category: blog
 author: jeffersonaraujo
-description: Markdown summary with different options
+description: Compartilhamento do conhecimento humano
 ---
 
 ## Meus primeiros passos em Gestão de Gonhecimento
