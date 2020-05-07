@@ -1,6 +1,6 @@
 # main text of home
 name: Jefferson Araujo
-bio: A Soul who tests the live, codes new roads and learns.
+bio: A soul who wanna lives learning, sharing and scaling good things with quality ;p
 
 # twitter summary info
 description: A blog about sharing, scaling and quality philosofer.
@@ -35,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: marmojezz
-twitter: marmojezz
+# twitter: marmojezz
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: marmojezz
 # youtube: myyoutube
 # spotify: myspotify
 github: marmojezz
@@ -70,7 +70,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
