@@ -1,6 +1,6 @@
 # main text of home
 name: Jefferson Araujo
-bio: A soul who wanna lives learning, sharing and scaling good things with quality ;p
+bio: A soul who lives learning, sharing and scaling good things
 
 # twitter summary info
 description: A blog about sharing, scaling and quality philosofer.
@@ -34,7 +34,7 @@ disqus:
   categories: [blog, project,sharing,scalng,coop] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: marmojezz
+#facebook: marmojezz
 # twitter: marmojezz
 # google: mygoogle
 # instagram: myinstagram
