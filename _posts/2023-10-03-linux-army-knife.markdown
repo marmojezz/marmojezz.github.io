@@ -1,5 +1,5 @@
 ---
-title: "Linux Army Knif"
+title: "Linux Army Knife"
 layout: post
 date: 2023-10-03 09:08
 image: /assets/images/markdown.jpg
