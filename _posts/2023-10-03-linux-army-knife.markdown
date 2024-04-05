@@ -15,17 +15,20 @@ description: Learn miscellaneous usefull linux commands by discribution
 
 # Compacting and Descompacting files
 
-##   How to compact folders with tar
+## How to compact folders with tar
 
-    ```
     [foo@bar ~]$ tar -czf folder.tar.gz folder/
-    ```
     
-##   How to descompact folders with tar
+    
+## How to descompact folders with tar
 
-    ```
     [foo@bar ~]$ tar -xzf folder.tar.gz
-    ```
-    
+
+## How to retrieve IP on SLED Linux
+
+    [foo@bar ~]$ ip addr
+
+
+
 ## References
 https://man7.org/linux/man-pages/man1/tar.1.html
