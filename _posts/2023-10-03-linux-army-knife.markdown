@@ -17,16 +17,16 @@ description: Learn miscellaneous usefull linux commands by discribution
 
 ## How to compact folders with tar
 
-    [foo@bar ~]$ tar -czf folder.tar.gz folder/
+    tar -czf folder.tar.gz folder/
     
     
 ## How to descompact folders with tar
 
-    [foo@bar ~]$ tar -xzf folder.tar.gz
+    tar -xzf folder.tar.gz
 
 ## How to retrieve IP on SLED Linux
 
-    [foo@bar ~]$ ip addr
+    ip addr
 
 
 
