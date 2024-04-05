@@ -24,9 +24,17 @@ description: Learn miscellaneous usefull linux commands by discribution
 
     tar -xzf folder.tar.gz
 
-## How to retrieve IP on SLED Linux
+## How to retrieve IP (SLED15)
 
     ip addr
+    
+## How to setup a Proxy manually (SLED15)
+
+https://www.suse.com/pt-br/support/kb/doc/?id=000017441
+
+## How to setup remote desktop on linux (SLED15)
+
+https://documentation.suse.com/sles-sap/15-SP4/html/SLES-SAP-guide/cha-configure-rdp.html
 
 
 
